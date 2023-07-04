@@ -23,15 +23,19 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
+import atmcard from "./atm-card.png";
+import mainLogo from "./logo-01.png";
 
 export {
   airbnb,
   bill,
   binance,
   card,
+  atmcard,
   coinbase,
   dropbox,
   logo,
+  mainLogo,
   quotes,
   robot,
   send,
